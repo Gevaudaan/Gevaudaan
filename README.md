@@ -45,7 +45,7 @@ Estudiante de informática de 7mo año apasionado por el desarrollo de software,
 
 ---
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gevaudaan&show_icons=true&border_radius=20&hide_border=true&title_color=611cb5&icon_color=7d27cc&text_color=f4effc&bg_color=0D1117"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gevaudaan&hide_border=true&show_icons=true&title_color=611cb5&icon_color=7d27cc&text_color=f4effc&bg_color=101424"/>
 
 ---
 
