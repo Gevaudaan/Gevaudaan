@@ -38,14 +38,14 @@ Estudiante de informática de 7mo año apasionado por el desarrollo de software,
   <ul>
     <li><a href="https://github.com/SzntiDev">Front-End Developer</a></li>
     <li>Back-End Developer</li>
-    <li>DBA</li>
+    <li><a href="https://github.com/Licha-M">DBA</a></li>
     <li>Tester</li>
   </ul>
 </div>
 
 ---
 
-![Mis Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Gevaudaan&show_icons=true&theme=tokyonight&border_radius=10)
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gevaudaan&show_icons=true&border_radius=20&hide_border=true&title_color=611cb5&icon_color=7d27cc&text_color=f4effc&bg_color=0D1117"/>
 
 ---
 
