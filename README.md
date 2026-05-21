@@ -2,37 +2,38 @@
 
 ![Banner](assets/banner_estrellas.gif)
 
-# ¡Buenas! Soy Agustín Aurellana | AKA Gevaudaan
+# Hey! I'm Agustín Aurellana | AKA Gevaudaan
 
-## 🚀 Junior Developer | Buenos Aires, Argentina 🇦🇷
+## Software Developer | Buenos Aires, Argentina 🇦🇷
 
-Estudiante de informática de 7mo año apasionado por el desarrollo de software, soluciones con IA y el aprendizaje continuo. Actualmente realizando mis primeras pasantías profesionales en sistemas CRM.
+Computer Science student in my final year of high-school, passionate about software development, AI solutions, and continuous learning. Currently undertaking my first professional internships focused on CRM systems.
 
 ---
 
-## 🛠️ Stack de Tecnologías 🛠️
+## 🛠️ Tech Stack 🛠️
 
-### ⌨️ Lenguajes
+### Languages
 <img src="https://skillicons.dev/icons?i=dotnet,cs,php,js,html,css" />
 
-### 🗄️ Base de Datos 🗄️
+### Data Bases
 <img src="https://skillicons.dev/icons?i=mysql" />
 
-### 🧰 Herramientas & Entorno 🧰
+### Tools and Enviorment
 
+<img src="https://api.iconify.design/logos:trello.svg" width="47" height="47" style="background-color: #1a1a1a; padding: 5px; border-radius: 12px; margin-left: 4px; vertical-align: top;" />
   <img src="https://skillicons.dev/icons?i=git,vscode,visualstudio" />
-  <img src="https://api.iconify.design/logos:jira.svg" width="42" height="42" style="background-color: #1a1a1a; padding: 5px; border-radius: 12px; margin-left: 4px; vertical-align: top;" />
+  <img src="https://api.iconify.design/logos:jira.svg" width="47" height="47" style="background-color: #1a1a1a; padding: 5px; border-radius: 12px; margin-left: 4px; vertical-align: top;" />
 
 
 
 ---
 
-## 🌟 Proyectos Destacados 🌟
+## 🌟 Featured Proyects 🌟
 
-**NutriMax** | Sistema bajo arquitectura MVC para gestión nutricional con integración de IA. En este proyecto tuve la oportunidad de liderar y coordinar un equipo de otras 4 personas. Asigné roles, coordiné sprints, organicé tareas y tomé decisiones estratégicas teniendo en cuenta la escalabilidad del sistema, la documentación y el uso de metodologías de trabajo ágiles.
+**NutriMax** | An AI-integrated nutritional management system built on an MVC architecture. In this project, I had the opportunity to lead and coordinate a team of four. I assigned roles, managed sprints, organized tasks, and made strategic decisions focusing on system scalability, comprehensive documentation, and agile methodologies.
 
 <div align="left" style="display: inline-block; text-align: left;">
-  <strong>Equipo:</strong>
+  <strong>Team:</strong>
   <ul>
     <li><a href="https://github.com/SzntiDev">Front-End Developer</a></li>
     <li>Back-End Developer</li>
